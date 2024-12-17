@@ -11,7 +11,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@strapi/strapi": "^4.x"
+    "@strapi/strapi": "^5.x"
   },
   "author": {
     "name": "Nicolas Hamelin",
